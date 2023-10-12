@@ -1,0 +1,21 @@
+Store: Identificador de la sucursal
+StoreType: Tipo de sucursal (a, b, c, d)
+Assortment: Nivel de inventario (a = básica, b = extra, c = extendida)
+CompetitionDistance: Distancia al competidor más cercano
+CompetitionOpenSinceMonth: Mes de apertura del competidor
+CompetitionOpenSinceYear: Año de apertura del comperidor
+Promo2: Indica si hay una promoción permanente
+Promo2SinceWeek: Indica la semana del año en la que la promoción permanente inició
+Promo2SinceYear: Indica el año en el que la promoción permanente inició
+PromoInterval: Indica los meses del año en los que la promoción permanente está activa
+
+
+Store: Identificador de la sucursal
+DayOfWeek: Día de la semana
+Date: Fecha del reporte de ventas
+Sales: Total de ventas reportadas
+Customers: Total de clientes reportados
+Open: Indica si la sucursal abrió ese día
+Promo: Indica si la sucursal tuvo una promoción del día (diferente a Promo2)
+StateHoliday: Indica si la fecha es un feriado estatal
+SchoolHoliday: Indica si la fecha es un feriado escolar
